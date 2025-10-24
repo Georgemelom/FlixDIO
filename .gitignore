@@ -1,0 +1,52 @@
+# Build artifacts
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Local settings (não versionar secrets)
+local.settings.json
+
+# Rider
+.idea/
+
+# Visual Studio
+*.VC.db
+*.VC.opendb
+*.VC.VC.opendb
+*.vs/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+
+# ASP.NET / Web
+*.log
+*.vspscc
+*.vssscc
+
+# Dotnet Core
+*.dotCover
+*.dotCover.user
+*.dotSettings.user
+TestResults/
+coverage/
+*.pidb
+*.userprefs
+*.pdb
+*.mdb
+
+# Azure Functions extensions
+extensions.csproj
