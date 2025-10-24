@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "fnPostDataStorage"
+		},
+		{
+			"path": "fnPostDataBase"
+		},
+		{
+			"path": ".vscode"
+		},
+		{
+			"name": "fnGetAllmovies",
+			"path": "fnGetAllmovies"
+		},
+		{
+			"name": "fnGetMovieDetail",
+			"path": "fnGetMovieDetail"
+		}
+	],
+	"settings": {
+		"debug.internalConsoleOptions": "neverOpen"
+	}
+}
